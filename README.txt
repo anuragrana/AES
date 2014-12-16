@@ -1,6 +1,6 @@
 /*
 ReamMe file for the program of Implemetation of AES-256.
-Author - Anurag Rana, MT13092 (No team, Programmed individually)
+Author - Anurag Rana (No team, Programmed individually)
 Date   - 14 Oct 2013
 */
 
@@ -29,4 +29,4 @@ A output file with the name 'inputfile.dec' will be generated.
          
 In case of some exception:
 1. Please check if file names are correct
-2. if exception persist, Please Contact anurag1392@iiitd.ac.in 
+2. if exception persist, Please Contact anuragrana31189@gmail.com
