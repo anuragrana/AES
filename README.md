@@ -1,6 +1,6 @@
 /*
 ReamMe file for the program of Implemetation of AES-256.
-Author - Anurag Rana (No team, Programmed individually)
+Author - Anurag Rana 
 Date   - 14 Oct 2013
 */
 
