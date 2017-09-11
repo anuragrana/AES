@@ -1,8 +1,8 @@
-/*
+
 ReamMe file for the program of Implemetation of AES-256.
 Author - Anurag Rana 
 Date   - 14 Oct 2013
-*/
+
 
 All the Java files are compiled and class files are also placed in folder HW5AC.
 
@@ -10,21 +10,21 @@ All the Java files are compiled and class files are also placed in folder HW5AC.
 HOW TO RUN THE PROGRAM -
 
 To run the program go command prompt and navigate to the folder HW5AC.
-type 'java AES option keyfile inputfile' and hit enter.
+Type 'java AES option keyfile inputfile' and hit enter.
 
-replace keyfile with your keyFile. key 00...00 is used in default keyfile.
+Rreplace keyfile with your keyFile. key 00...00 is used in default keyfile.
 
-replace option with 'e' for encryption and with 'd' for decryption.
+Replace option with 'e' for encryption and with 'd' for decryption.
 
 In case of encryption :
-replace inputfile with the name of the file to be encrypted. 
+Replace inputfile with the name of the file to be encrypted. 
 Text String 00112233445566778899AABBCCDDEEFF is used in default file.
 A output file with the name 'inputfile.enc' will be generated.
 
 
 
 In case of decryption :
-replace inputfile with the name of the file to be decrypted.
+Replace inputfile with the name of the file to be decrypted.
 A output file with the name 'inputfile.dec' will be generated. 
          
 In case of some exception:
